@@ -8,7 +8,7 @@ description: "Keep yourself up to date with our new product features"
 heading: Feature Updates # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/logo_truepush2.png #(required)
+logo: /assets/images/logo.png #(required)
 
 # Your Product's Website
 website: https://www.truepush.com # (required)
