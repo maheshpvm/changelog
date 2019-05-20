@@ -22,7 +22,7 @@ baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: maehshpvm/changelog # (required)
+github: maheshpvm/changelog # (required)
 
 # remove this line if don't want to show Github Star Badge
 star-badge: true  #(optional)
