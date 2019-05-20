@@ -1,22 +1,22 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: ChangeLog of Truepush #(required)
 
 # Website Description for search engines (optional)
 description: "Keep yourself up to date with our new product features"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: Updates # (optional)
+heading: Feature Updates # (optional)
 
 # absolute or relative path of logo
 logo: /assets/images/logo.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: https://www.truepush.com # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site"  # (required)
+url: "https://truepush.changelog.site"  # (required)
 
 baseurl: '' # optional
 
